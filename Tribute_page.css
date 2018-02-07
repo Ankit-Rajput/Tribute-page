@@ -1,0 +1,16 @@
+body {;
+      border:3px solid grey; 
+margin-top:50px;
+margin-left:50px;
+margin-right:50px;
+  margin-bottom:10px;
+color:grey;}
+h1 {color:white;
+align:center;}
+div {background-color:black;}
+img {max-width:30%;
+align:middle}
+li {color:white;}
+div.a {color:white;
+font-size:20px;}
+a:link {color:grey;}
